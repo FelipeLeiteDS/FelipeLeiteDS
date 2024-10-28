@@ -1,10 +1,5 @@
 ## Hi there!
 
-<!--
-**FelipeLeiteDS/FelipeLeiteDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - Recently graduated on a MBA program focused on Business Analytics and Data Science.
 - I’m currently working as CSR @ Amazon.
 - I’m currently learning the Data Science foundations.
