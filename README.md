@@ -4,7 +4,7 @@ I'm Felipe Leite, a Data Professional with a passion for analytics and business 
 
 ### 🎓 Background
 - MBA graduate specializing in Business Analytics and Data Science
-- Currently working as a Corporate Admin Assistant at Amazon
+- Currently working as a Corporate Administrative Assistant at Amazon
 
 ### 💼 Professional Focus
 - Actively practicing and expanding my Data Analytics and Data Science skills
