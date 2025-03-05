@@ -3,6 +3,7 @@
 I'm Felipe Leite, a Data Professional passionate about leveraging analytics and business strategy to drive impactful decisions.
 
 ### 🎓 Background
+- Post Graduation in Finance at University of São Paulo
 - MBA graduate specializing in Business Analytics and Data Science
 - Currently working as a Corporate Administrative Assistant at Amazon
 
@@ -18,7 +19,7 @@ I'm Felipe Leite, a Data Professional passionate about leveraging analytics and 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeLeiteDS)](https://github.com/FelipeLeiteDS/github-readme-stats)
 
-### 📊 Portfolio & Contact
+### 💡📬📞 Portfolio & Contact
 - Explore my work and connect with me:
 
 <div> 
