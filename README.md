@@ -14,8 +14,12 @@ I'm Felipe Leite, a Data Professional passionate about leveraging analytics and 
 - Open to collaborating on innovative, data-driven projects
 - Excited about opportunities that combine analytical rigor with strategic business insights
 
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeLeiteDS)](https://github.com/FelipeLeiteDS/github-readme-stats)
+
 ### 📊 Portfolio & Contact
-- Explore my work and connect with me: [Portfolio & Contact Info](https://linktr.ee/FelipeLeiteDS)
+- Explore my work and connect with me:
 
 <div> 
   <a href = "https://linktr.ee/FelipeLeiteDS"><img src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" target="_blank"></a>
