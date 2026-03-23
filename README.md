@@ -3,8 +3,8 @@
 I'm Felipe Leite, a Data Professional passionate about leveraging analytics and business strategy to drive impactful decisions.
 
 ### 🎓 Background
-- Post-grade diploma in Finance at University of São Paulo
 - MBA graduate specializing in Business Analytics and Data Science
+- Post-grade diploma in Finance at University of São Paulo
 - Currently working as a Administrative Operations Team Lead at Amazon
 - College Instructor mentoring future leaders and teaching business analitics, enomomics and statistics.
 
