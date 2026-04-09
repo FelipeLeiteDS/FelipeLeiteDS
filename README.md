@@ -9,7 +9,7 @@ I'm Felipe Leite, a Data Professional passionate about leveraging analytics and 
 
 ### 🎓 Academic Background
 - MBA graduate @UCW specialized in Business Analytics
-- Post-grade diploma in Finance @ University of São 
+- Post-grade diploma in Finance @ University of São Paulo
 
 ### 🤝 Collaboration
 - Open to collaborating on innovative, data-driven projects
