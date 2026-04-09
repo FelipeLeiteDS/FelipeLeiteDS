@@ -7,7 +7,9 @@ I'm Felipe Leite, a Data Professional passionate about leveraging analytics and 
 - College Instructor @ Strava College
 - Mentoring future leaders and teaching business analitics, enomomics and statistics
 
-
+### 🎓 Academic Background
+- MBA graduate @UCW specialized in Business Analytics
+- Post-grade diploma in Finance @ University of São 
 
 ### 🤝 Collaboration
 - Open to collaborating on innovative, data-driven projects
