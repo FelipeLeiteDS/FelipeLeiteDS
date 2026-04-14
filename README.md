@@ -16,7 +16,8 @@ I'm Felipe Leite, a Data Professional passionate about leveraging analytics and 
 - Excited about opportunities that combine analytical rigor with strategic business insights
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLeiteDS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats-nine-theta-74.vercel.app/api/top-langs/?username=FelipeLeiteDS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 💡📬📞 Portfolio & Contact
 - Explore my work and connect with me:
