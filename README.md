@@ -3,17 +3,17 @@
 I'm Felipe Leite, a Data Professional passionate about leveraging analytics and business strategy to drive impactful decisions.
 
 ### 💼 Professional Focus
-- Currently working as a Administrative Operations Team Lead @ Amazon
+- Currently working as an Administrative Operations Team Lead @ Amazon
 - College Instructor @ Strava College
-- Mentoring future leaders and teaching business analitics, enomomics and statistics
+- Mentoring future leaders and teaching business analytics, economics, economics, and statistics
 
 ### 🎓 Academic Background
-- MBA graduate @UCW specialized in Business Analytics
+- MBA graduate @UCW, specialized in Business Analytics
 - Post-grade diploma in Finance @ University of São Paulo
 
 ### 🤝 Collaboration
 - Open to collaborating on innovative, data-driven projects
-- Excited about opportunities that combine analytical rigor with strategic business insights
+- Excited about opportunities that combine analytical rigour with strategic business insights
 
 ### 📊 GitHub Stats
 
